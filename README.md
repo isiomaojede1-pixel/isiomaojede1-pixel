@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**isiomaojede1-pixel/isiomaojede1-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Currently Exploring What Comes Next
 
-Here are some ideas to get you started:
+Aspiring founder interested in building at the intersection of human experience, emerging technology, creativity and future industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests span human centred invention, immersive creative experiences and the evolution of everyday objects into something more meaningful, intelligent and enduring.
+
+I am drawn to ideas that challenge existing conventions, address overlooked human needs and create entirely new possibilities rather than simply improve what already exists.
+
+Currently exploring several independent venture directions through research, conceptual development and early-stage experimentation.
+
+Interested in connecting with ambitious founders, technical collaborators, researchers and venture builders who think beyond conventional boundaries.
+
+Long-term ambition: Build enduring companies that expand human creativity, experience and possibility.
